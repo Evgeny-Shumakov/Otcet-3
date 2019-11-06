@@ -8,7 +8,7 @@
 ПОМОГИТЕ!!! HELP ME!!! SOS!!!
 Допоможіть,Hilfe
 
-image::Кот.JPG[]
+image::Кот.jpg[]
 
 [.yellow.background]
 
