@@ -8,7 +8,7 @@
 ПОМОГИТЕ!!! HELP ME!!! SOS!!!
 Допоможіть,Hilfe
 
-image::Кот.jpg[]
+image::kot_shrek.jpg[]
 
 [.yellow.background]
 
